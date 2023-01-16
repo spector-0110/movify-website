@@ -4,7 +4,8 @@
 
 
 <p align="center">
-<img width="828" alt="Screenshot 2022-08-28 at 1 13 57 AM" src="https://user-images.githubusercontent.com/86067292/187045726-b8ab7f66-5e0f-4186-bd15-4175b850b567.png">
+<img width="100%" alt="Screenshot 2023-01-16 at 5 45 09 PM" src="https://user-images.githubusercontent.com/86067292/212688263-db608f05-b671-466c-9098-61b79adc8f42.png">
+
 </p>
 
 
