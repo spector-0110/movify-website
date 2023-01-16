@@ -1,0 +1,254 @@
+#signup {
+    color: rgb(255, 255, 255);
+    border: white 1px solid;
+}
+#signup:hover{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border: white 1px solid;
+}
+
+.btn {
+    margin: 00px 6px 00px 6px;
+}
+
+#main {
+    background-image: url(https://wallpapers-hub.art/wallpaper-images/288784.jpg);
+    width: 1440px;
+    height: 740px;
+    background-position: center;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+#heading {
+padding-top: 250px;
+    text-align: center;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    /* padding-top: 220px; */
+}
+
+#name {
+    color: #f62f60;
+}
+
+#image1 {
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+#midimg {
+    border-radius: 10px;
+}
+
+.img-hover {
+    border-radius: 10px;
+    transition: 0.3s;
+    box-shadow: 5px 10px 18px #a3a3a3;
+}
+
+.img-hover:hover {
+    transform: translate(0, -20px);
+}
+
+#mega {
+    color: #feb92b;
+    font-family: 'Abril Fatface', cursive;
+
+    font-family: 'Edu TAS Beginner', cursive;
+
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 60px;
+}
+
+#megaimg {
+    float: left;
+
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 4px;
+}
+
+#megaimg2 {
+    float: right;
+    width: 400px;
+    height: 400px;
+}
+
+#des {
+    margin-top: 650px;
+}
+
+#des2 {
+    padding-top: 550px;
+
+}
+
+#descrip1 {
+    margin-left: 100px;
+    float: left;
+    width: 650px;
+}
+
+#descrip2 {
+
+    float: left;
+    width: 650px;
+}
+
+#descrip3 {
+    margin-left: 100px;
+    float: left;
+    width: 650px;
+}
+
+#descrip4 {
+
+    float: left;
+    width: 650px;
+}
+
+#dropdown {
+    margin-top: 18px;
+    border: #ef3946 2px solid;
+    border-radius: 15px;
+}
+
+#quick {
+    margin-top: 18px;
+    border: #ef3946 2px solid;
+    border-radius: 15px;
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: #fd5f6a;
+}
+
+#filter {
+    font-size: 50px;
+    padding-top: 450px;
+    margin-left: 100px;
+}
+
+#products {
+    font-size: 35px;
+    margin-left: 100px;
+}
+
+#filterimg {
+    margin-left: 100px;
+}
+
+#shop {
+    margin-top: 10px;
+    height: 820px;
+    background-color: #D1E8F2;
+}
+
+#vendor {
+  
+    font-family: 'Abril Fatface', cursive;
+
+    font-family: 'Edu TAS Beginner', cursive;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+#mplace{
+    font-size: 40px;
+    padding-top: 100px;
+    font-family: 'Abril Fatface', cursive;
+
+    font-family: 'Edu TAS Beginner', cursive;
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Work Sans', sans-serif;
+}
+.mplaceimg{
+    float: left;
+    margin-top: 100px;
+    margin-left: 90px;
+    
+}
+#mplaceimg1{
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+#mplaceimg2{
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+#mplaceimg3{
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+#mplaceimg4{
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+#fimg{
+    margin-top: 60px;
+}
+#f1{
+    margin-left: 35px;
+}
+#f2{
+    margin-left: 35px;
+}
+#f3{
+    margin-left: 35px;
+}
+#f4{
+    margin-left: 35px;
+}
+#f5{
+    margin-left: 35px;
+}
+#get{
+    margin-top: 100px;
+}
+#lastb{
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+    background-color: #fd5f6a;
+    border-radius: 05px;
+}
+#log{
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+#footer{
+    color: #ef3946;
+}
+#hover1:hover{
+    background-color: #383535;
+}
+#hover2:hover{
+    background-color: #383535;
+}
+#hover3:hover{
+    background-color: #383535;
+}
+#help{
+    margin-bottom: 20px;
+    margin-right: 40px;
+
+}
