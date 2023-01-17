@@ -24,9 +24,9 @@ This repository contains the assets required to build the [ MOVIFY ](https://git
 <h3 align="center"> User Portal </h3>
 <p align="center">
 
-<img width="1440" alt="Screenshot 2023-01-17 at 3 18 06 AM" src="https://user-images.githubusercontent.com/86067292/212779312-1bdd643e-485c-4b8c-a496-5a6b2bcccfc3.png">
+<img width="49%" alt="Screenshot 2023-01-17 at 3 18 06 AM" src="https://user-images.githubusercontent.com/86067292/212779312-1bdd643e-485c-4b8c-a496-5a6b2bcccfc3.png">
 
-<img width="1436" alt="Screenshot 2023-01-17 at 3 18 21 AM" src="https://user-images.githubusercontent.com/86067292/212779439-269ab40b-9352-4e9e-9a80-f530d97589db.png">
+<img width="49%" alt="Screenshot 2023-01-17 at 3 18 21 AM" src="https://user-images.githubusercontent.com/86067292/212779439-269ab40b-9352-4e9e-9a80-f530d97589db.png">
 
 
 </p>
