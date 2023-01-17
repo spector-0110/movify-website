@@ -34,7 +34,7 @@ This repository contains the assets required to build the [ MOVIFY ](https://git
 
 <h3 align="center"> Seach Portal
  </h3>
-<img width="1440" alt="Screenshot 2023-01-17 at 11 00 15 AM" src="https://user-images.githubusercontent.com/86067292/212817522-483c838a-850c-4009-8547-8959f8639628.png">
+<img width="100%" alt="Screenshot 2023-01-17 at 11 00 15 AM" src="https://user-images.githubusercontent.com/86067292/212817522-483c838a-850c-4009-8547-8959f8639628.png">
 
 <h3 align="center"> Admin Portal </h3>
 
