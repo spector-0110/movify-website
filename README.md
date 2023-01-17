@@ -43,7 +43,7 @@ This repository contains the assets required to build the [ MOVIFY ](https://git
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
 <p> 
  
-[![Contributors](https://contrib.rocks/image?repo=devanshu0605/movify-website)](https://github.com/Finadel1/Finadel_Website)
+[![Contributors](https://contrib.rocks/image?repo=devanshu0605/movify-website)](https://github.com/devanshu0605/movify-website)
  
 </p>
 
